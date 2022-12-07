@@ -11,13 +11,15 @@
 #animationInfo {
     font-size: xx-large;
     font-weight: bold;
-    position: relative;
-    bottom: 35%;
-    right: 9%;
+    position: absolute;
+    bottom: 92%;
+    right: 45%;
 }
 
 #list {
     font-size: xx-large;
-    font-weight: bold;
-    margin-right: 30%;    
+    /* font-weight: bold; */
+    /* margin-right: 30%;  */
+    position: absolute;
+    left: 2%;   
 }
