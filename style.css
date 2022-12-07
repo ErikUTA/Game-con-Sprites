@@ -8,9 +8,16 @@
     height: 600px;
 }
 
-#animationDescription {
+#animationInfo {
     font-size: xx-large;
     font-weight: bold;
     position: relative;
-    top: 30%;
+    bottom: 35%;
+    right: 9%;
+}
+
+#list {
+    font-size: xx-large;
+    font-weight: bold;
+    margin-right: 30%;    
 }
